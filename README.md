@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somashree-7205&label=Profile%20views&color=0e75b6&style=flat" alt="Anshika Singh" /> </p>
 
-- 🔭 I’m currently working on **machine learning unsupervised model**
+- 🔭 I’m currently working on **Fronted Web Development**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
