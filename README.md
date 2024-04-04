@@ -1,4 +1,8 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)](https://Somashree-7205.io)
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Anshika Singh</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
